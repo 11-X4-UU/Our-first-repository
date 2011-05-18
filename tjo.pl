@@ -1,2 +1,2 @@
 print "bajsmacka\n";
-print "peinriche";
+print "ciabatta";
